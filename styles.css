@@ -90,3 +90,18 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+
+.social-icons {
+    display: flex;
+    gap: 10px;
+}
+
+.social-icons a {
+    text-decoration: none;
+}
+
+.social-icons img {
+    width: 30px;
+    height: 30px;
+}
